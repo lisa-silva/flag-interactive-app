@@ -6,7 +6,7 @@ This application simulates shift schedules, ideal for traffic flaggers and simil
 How to Use:
 
 - Adjust Scheduling Controls:
-- 
+
 On the sidebar, set the Schedule Start Date, Rotation Cycle Length, and Number of Cycles to Generate.
 
 - Review Simulation Output:
@@ -14,7 +14,7 @@ On the sidebar, set the Schedule Start Date, Rotation Cycle Length, and Number o
 - Simulate recruitment processes.
 - Generate alternating schedules.
 - Dispatch simulation with geofencing notes.
-- 
+ 
 Features:
 
 - Initial worker pool from "App Signups".
